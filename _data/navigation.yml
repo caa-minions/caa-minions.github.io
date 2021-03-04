@@ -1,10 +1,10 @@
 main:
-  - title: "About"
-    url: /about/
   - title: "Conference"
     url: /conf/
   - title: "Little Minions"
     url: /minions/
+  - title: "About"
+    url: /about/
 
 barConf:
   - title: "CAA Conference"
