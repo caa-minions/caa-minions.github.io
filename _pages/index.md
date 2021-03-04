@@ -5,6 +5,7 @@ header:
  image: /assets/images/header.jpg
  caption: "Photo credit: after Christiaan Colen, CC BY-SA 2.0"
 ---
+
 **Next Minion call:**
 **Call for papers until 12th March 2021 , 23:59 GMT Abstract: <https://2021.caaconference.org/sessions/#13>**
 
@@ -13,11 +14,12 @@ In our daily work, small self-made scripts, home-grown small applications and li
 
 On the following pages you will find our past and upcoming events, minion documents and a list, where we collect all our minions! You like to share yours, too? Contact us!
 
+Florian Thiery, Ronald Visser, and Moritz Mennenga
+
 <p>
   <center>
   <img src="https://github.com/caa-minions/caa-minions.github.io/raw/main/assets/images/lmcaalogo.png" style="height:300px;">
-  <h5>image designed by Illustriouss at fiverr</h5>
-  <h2>Florian Thiery, Ronald Visser, and Moritz Mennenga</h2>
+  <p><i>image designed by Illustriouss at fiverr</i></p>
   </center>
 </p>
 
