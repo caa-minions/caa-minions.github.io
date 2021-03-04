@@ -23,7 +23,18 @@ upcoming...
 
 conference canceled due COVID19
 
+<<<<<<< HEAD
+## Joint Chapter Meeting CAA-NLFl & CAA-DE (December 3-4, 2020: Online at Saxion University of Applied Sciences)
+
+Session: Tools, statistics and little Minions
+
+- Linked Open Samian Ware - Unveiling the hidden Data Dragons and uncovering temporal vagueness with the help of Little Minions (Florian Thiery (RGZM)*; Allard Mees (RGZM); Dennis Gottwald (Johannes Gutenberg-Universität Mainz))
+- geoCore -  QGIS plugin to construct a graphical representation of petrographic drilling profiles (Moritz Mennenga (Lower Saxony Institute for Historical Coastal Research)*; Gerrit Bette (T-Systems on site services GmbH))
+
+## CAA Germany 2020
+=======
 ## CAA Germany 2020 - Wilhelmshaven, Germany
+>>>>>>> 86caf51993bd2546dd983eabc1f8b9ead28ff0b5
 
 -   Digitale Archivierung ohne eigenes Archiv? (Martina Trognitz, ÖAW – Austrian Centre for Digital Humanties)
 -   Ein digitales Feldbuch – Die 3D-Dokumentation einer archäologischen Grabung (Lukas Büsche\* / Max Simon\* / Jörn Richter\* / Semiya Pape\* / Stephanie Braun\*\* / Sabrina Geiermann\*\* / Stefan Pircher\*\*, \*Institut für Informatik, Fakultät für Informatik und Ingenieurwissenschaften, TH Köln, \*\*Archäologie der Römische Provinzen, Archäologisches Institut der Universität zu Köln)
