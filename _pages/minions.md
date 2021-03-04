@@ -2,7 +2,7 @@
 permalink: /minions/
 title: "Little Minions"
 header:
-  image: /assets/images/header6.jpg
+  image: /assets/images/header3.jpg
   caption: "Photo credit: Florian Thiery, CC BY 4.0"
 sidebar:
   nav: "aboutMinions"
