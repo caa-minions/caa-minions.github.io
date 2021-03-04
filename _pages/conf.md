@@ -27,13 +27,15 @@ conference canceled due COVID
 
 -   Abstract: <https://doi.org/10.5281/zenodo.1420252>
 
+### Paper
+
 -   A Linked and Open Bibliography for Aegean Glyptic in the Bronze Age (Martina Trognitz, DAI Berlin) - [Video](https://www.youtube.com/watch?v=ywsRcnlQ198)
 -   My little text mining minion (Ronald Visser, Saxion Deventer) - [Video](https://youtu.be/KIyWEFHaG5A)
 -   Taming Time Tools: Alligator and Academic Meta Tool (Allard Mees / Florian Thiery, RGZM Mainz) - [Video](https://www.youtube.com/watch?v=X7mwRToJZbA)
 -   Serial, fast and low cost 3D pottery on site documentation (Fanet Göttlich) - [Video](https://youtu.be/zhD2bI3K66A)
 -   CpyPst3D: a tool for direct exchange of 3D features with attributes between GIS, 3D-modeling environment and CAD (Bart Vissers)
 
-Stand-up-Science
+### Stand-up-Science
 
 -   profileAAR release note (Moritz Mennenga, Lower Saxony Instiute for historical Coastal Research)
 
@@ -43,12 +45,12 @@ Our first Minion Session! A few well prepared people hadn't handed in a paper an
 
 -   Abstract: <https://2018.caaconference.org/sessions/#_Toc494453168>
 
-Paper
+### Paper
 
 -   Numismatic Reconciliation APIs for OpenRefine (Ethan Gruber, American Numismatic Society)
 -   Paperless mapping and Cave Archaeology: An application review (Konstantinos Prokopios Trimmis, Cardiff University)
 -   [ProfileAAR – a small tool helping to rectify archaeological profiles in QGIS](https://youtu.be/SgVIP3lF7m8) (Moritz Mennenga, Lower Saxony Instiute for historical Coastal Research)
 
-Stand-up-Science
+### Stand-up-Science
 
 -   Bonify (Gary R. Nobles, RU Groningen)
