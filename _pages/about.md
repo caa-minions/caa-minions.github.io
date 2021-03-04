@@ -14,4 +14,15 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Responsibles
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+-   Ronald Visser
+-   Moritz Mennenga
+-   Florian Thiery
+
+## Presentations
+
+### SORSE 2021
+
+-   Video: <https://youtu.be/W_a8DEZz2uI?t=3550>
+-   Lightning Talk: Florian Thiery, Ronald Visser, & Moritz Mennenga. (2021, March). Little Minions in Archaeology An open space for RSE software and small scripts in digital archaeology. Presented at the SORSE - International Series of Online Research Software Events (SORSE), virtual: Zenodo. <http://doi.org/10.5281/zenodo.4575155>
+-   Poster: Florian Thiery, Ronald Visser, & Moritz Mennenga. (2021). Little Minions in Archaeology An open space for RSE software and small scripts in digital archaeology. Presented at the SORSE - International Series of Online Research Software Events (SORSE), virtual: Zenodo. <http://doi.org/10.5281/zenodo.4575168>
+-   Abstract: Florian Thiery, Ronald Visser, & Moritz Mennenga. (2021). Little Minions in Archaeology - an open space for RSE software and small scripts in digital archaeology. Presented at the International Series of Online Research Software Events (SORSE), Zenodo. <http://doi.org/10.5281/zenodo.4552002>
