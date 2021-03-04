@@ -31,7 +31,7 @@ canceled
 
 Stand-up-Science
 
-* profileAAR release note
+* profileAAR release note (Moritz Mennenga, Lower Saxony Instiute for historical Coastal Research)
 
 ## CAA 2018
 
