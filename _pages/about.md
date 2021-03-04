@@ -20,9 +20,13 @@ You like to join organizing Minions? Contact us!
 -   Moritz Mennenga
     -   Lower Saxony Institute for Historical Coastal Research, Germany.
     -   <https://orcid.org/0000-0003-1521-8929>
+    -   Member of the Scientific Advisory Council at the CAA Section Germany (since 2016)
 -   Florian Thiery
     -   Römisch-Germanisches Zentralmuseum, Germany.
     -   <https://orcid.org/0000-0002-3246-3531>
+    -   Member of the CAA Scientific Committee (since 2019)
+    -   Speaker of the CAA SIG Data-Dragon (since 2020)
+    -   Member of the Scientific Advisory Council at the CAA Section Germany (since 2016)
 
 ## Contact
 
