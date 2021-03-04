@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 header:
   image: /assets/images/header3.jpg
-  caption: "Photo credit: Florian Thiery, CC BY 4.0"
+  caption: "Photo credit: after Christiaan Colen, CC BY-SA 2.0"
 sidebar:
   nav: "aboutConf"
 ---
