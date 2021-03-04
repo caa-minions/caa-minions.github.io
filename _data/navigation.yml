@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Conference"
     url: /conf/
+  - title: "Little Minions"
+    url: /minions/
 
 barConf:
   - title: "CAA Conference"
