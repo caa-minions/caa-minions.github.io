@@ -18,7 +18,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     -   Saxion - University of Applied Sciences, The Netherlands.
     -   <https://orcid.org/0000-0001-6966-1729>
 -   Moritz Mennenga
-    -   Lower Saxony Institute of Historical Coastal Research, Germany.
+    -   Lower Saxony Institute for Historical Coastal Research, Germany.
     -   <https://orcid.org/0000-0003-1521-8929>
 -   Florian Thiery
     -   Römisch-Germanisches Zentralmuseum, Germany.
