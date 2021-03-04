@@ -2,7 +2,7 @@
 permalink: /documents/
 title: "Documents"
 header:
-  image: /assets/images/header3.jpg
+  image: /assets/images/header.jpg
   caption: "Photo credit: after Christiaan Colen, CC BY-SA 2.0"
 sidebar:
   nav: "docConf"

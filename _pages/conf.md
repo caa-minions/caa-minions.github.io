@@ -2,7 +2,7 @@
 permalink: /conf/
 title: "Conference"
 header:
-  image: /assets/images/header3.jpg
+  image: /assets/images/header.jpg
   caption: "Photo credit: after Christiaan Colen, CC BY-SA 2.0"
 sidebar:
   nav: "barConf"
@@ -32,9 +32,9 @@ Session: Tools, statistics and little Minions
 
 ## CAA Germany 2020 - Wilhelmshaven, Germany
 
-* Digitale Archivierung ohne eigenes Archiv? (Martina Trognitz, ÖAW – Austrian Centre for Digital Humanties)
-* Ein digitales Feldbuch – Die 3D-Dokumentation einer archäologischen Grabung (Lukas Büsche\* / Max Simon\* / Jörn Richter\* / Semiya Pape\* / Stephanie Braun\*\* / Sabrina Geiermann\*\* / Stefan Pircher\*\*, \*Institut für Informatik, Fakultät für Informatik und Ingenieurwissenschaften, TH Köln, \*\*Archäologie der Römische Provinzen, Archäologisches Institut der Universität zu Köln)
-.
+-   Digitale Archivierung ohne eigenes Archiv? (Martina Trognitz, ÖAW – Austrian Centre for Digital Humanties)
+-   Ein digitales Feldbuch – Die 3D-Dokumentation einer archäologischen Grabung (Lukas Büsche\* / Max Simon\* / Jörn Richter\* / Semiya Pape\* / Stephanie Braun\*\* / Sabrina Geiermann\*\* / Stefan Pircher\*\*, \*Institut für Informatik, Fakultät für Informatik und Ingenieurwissenschaften, TH Köln, \*\*Archäologie der Römische Provinzen, Archäologisches Institut der Universität zu Köln)
+    .
 
 ## CAA 2019 - Kraków, Poland
 
