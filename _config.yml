@@ -80,6 +80,7 @@ author:
       url: "https://github.com/caa-minions"
     - label: "caa[at]littleminions[dot]link"
       icon: "fab fa-fw fa-envelope-square"
+      url: ""
 
 footer:
   links:
