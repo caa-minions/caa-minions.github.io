@@ -8,7 +8,7 @@ sidebar:
   nav: "aboutConf"
 ---
 
-## I wan't to be a Minion
+## I want to be a Minion
 
 You like to join organizing Minions? Contact us!
 
