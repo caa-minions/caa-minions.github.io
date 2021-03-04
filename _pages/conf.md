@@ -13,7 +13,7 @@ sidebar:
 You will find a list of all our talks here!
 For finding the Minions online check out our [list](https://caa-minions.github.io/minions/).
 
-## CAA 2021 - Limassol, Cyprus (went digital)
+## CAA 2021 - Limassol, Cyprus (digital)
 
 -   Abstract: <https://2021.caaconference.org/sessions/#13>
 
@@ -23,7 +23,7 @@ upcoming...
 
 conference canceled due COVID19
 
-## CAA Joint Chapter Meeting CAA-NLFl & CAA-DE, online at Saxion University of Applied Sciences, December 3-4
+## CAA Joint Chapter Meeting CAA-NLFL & CAA-DE 2020 - Deventer, Netherlands (digital)
 
 Session: Tools, statistics and little Minions
 
