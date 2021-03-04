@@ -20,7 +20,7 @@ On the following pages you will find our past and upcoming events, minion docume
 
 <p>
   <center>
-  <img src="https://github.com/caa-minions/caa-minions.github.io/raw/main/assets/images/CAA-FullLogo.png" style="height:200px;">
+  <img src="https://github.com/caa-minions/caa-minions.github.io/raw/main/assets/images/CAA-FullLogo.jpg" style="height:200px;">
   <h2>Computer Applications & Quantitative Methods in Archaeology</h2>
   </center>
 </p>
