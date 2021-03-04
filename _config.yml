@@ -57,7 +57,6 @@ plugins:
 
 author:
   name   : "Little Minions"
-  avatar : "/assets/images/lmcaalogo.png"
   bio    : "at the CAA"
   links:
     - label: "Ronald Visser"
