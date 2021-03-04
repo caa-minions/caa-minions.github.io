@@ -10,8 +10,8 @@ sidebar:
 
 ## CAA
 
-Here you will find a list of all our talks!
-For finding the Minions online have a look in our [list](https://caa-minions.github.io/minions/).
+You will find a list of all our talks here!
+For finding the Minions online check out our [list](https://caa-minions.github.io/minions/).
 
 ## CAA 2021 - Limassol, Cyprus (went digital)
 
