@@ -16,6 +16,7 @@ On the following pages you will find our past and upcoming events, minion docume
 <p>
   <center>
   <img src="https://github.com/caa-minions/caa-minions.github.io/raw/main/assets/images/lmcaalogo.png" style="height:300px;">
+  <h5>image designed by Illustriouss at fiverr</h5>
   <h2>Florian Thiery, Ronald Visser, and Moritz Mennenga</h2>
   </center>
 </p>
