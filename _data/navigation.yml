@@ -23,3 +23,5 @@ aboutConf:
     url: /conf/#responsibles
   - title: "Presentations"
     url: /conf/#presentations
+  - title: "Contact"
+    url: /conf/#contact

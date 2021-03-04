@@ -24,6 +24,13 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
     -   Römisch-Germanisches Zentralmuseum, Germany.
     -   <https://orcid.org/0000-0002-3246-3531>
 
+## Contact
+
+-   Website: <http://littleminions.link>
+-   Twitter: <https://twitter.com/CaaLittleMinion>
+-   GitHub: <https://github.com/caa-minions>
+-   Email: caa[at]littleminions[dot]link
+
 ## Presentations
 
 ### SORSE 2021
