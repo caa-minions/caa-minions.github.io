@@ -34,7 +34,6 @@ Session: Tools, statistics and little Minions
 
 -   Digitale Archivierung ohne eigenes Archiv? (Martina Trognitz, ÖAW – Austrian Centre for Digital Humanties)
 -   Ein digitales Feldbuch – Die 3D-Dokumentation einer archäologischen Grabung (Lukas Büsche\* / Max Simon\* / Jörn Richter\* / Semiya Pape\* / Stephanie Braun\*\* / Sabrina Geiermann\*\* / Stefan Pircher\*\*, \*Institut für Informatik, Fakultät für Informatik und Ingenieurwissenschaften, TH Köln, \*\*Archäologie der Römische Provinzen, Archäologisches Institut der Universität zu Köln)
-    .
 
 ## CAA 2019 - Kraków, Poland
 
@@ -67,3 +66,4 @@ Our first Minion Session! A few well prepared people hadn't handed in a paper an
 ### Stand-up-Science
 
 -   Bonify (Gary R. Nobles, RU Groningen)
+-   Archaeological database for excavations (Wouter Yperman)
