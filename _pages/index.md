@@ -17,3 +17,10 @@ On the following pages you will find our past and upcoming events, minion docume
   <h2>Florian Thiery, Ronald Visser, and Moritz Mennenga</h2>
   </center>
 </p>
+
+<p>
+  <center>
+  <img src="https://github.com/caa-minions/caa-minions.github.io/raw/main/assets/images/CAA-FullLogo.jpg" style="height:200px;">
+  <h2>Computer Applications & Quantitative Methods<br>in Archaeology</h2>
+  </center>
+</p>
