@@ -1,0 +1,21 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Conference"
+    url: /conf/
+
+barConf:
+  - title: "CAA Conference"
+    url: /conf/#caa
+  - title: "CAA 2021"
+    url: /conf/#caa-2021
+  - title: "CAA 2019"
+    url: /conf/#caa-2019
+  - title: "CAA 2018"
+    url: /conf/#caa-2018
+
+aboutConf:
+  - title: "Idea"
+    url: /conf/#idea
+  - title: "Responsibles"
+    url: /conf/#responsibles
