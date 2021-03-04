@@ -3,6 +3,8 @@ main:
     url: /conf/
   - title: "Little Minions"
     url: /minions/
+  - title: "Documents"
+    url: /documents/
   - title: "About"
     url: /about/
 
@@ -21,7 +23,9 @@ aboutConf:
     url: /conf/#idea
   - title: "Responsibles"
     url: /conf/#responsibles
-  - title: "Presentations"
-    url: /conf/#presentations
   - title: "Contact"
     url: /conf/#contact
+
+docConf:
+  - title: "Presentations"
+    url: /conf/#presentations
