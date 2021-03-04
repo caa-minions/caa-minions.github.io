@@ -13,23 +13,23 @@ sidebar:
 Here you will find a list of all our talks!
 For finding the Minions online have a look in our [list](https://caa-minions.github.io/minions/).
 
-## CAA 2021
+## CAA 2021 - Limassol, Cyprus (went digital)
 
 -   Abstract: <https://2021.caaconference.org/sessions/#13>
 
 upcoming...
 
-## CAA 2020
+## CAA 2020, Oxfort
 
 conference canceled due COVID
 
-## CAA Germany 2020
+## CAA Germany 2020 - Wilhelmshaven
 
 * Digitale Archivierung ohne eigenes Archiv? (Martina Trognitz, ÖAW – Austrian Centre for Digital Humanties)
 * Ein digitales Feldbuch – Die 3D-Dokumentation einer archäologischen Grabung (Lukas Büsche\* / Max Simon\* / Jörn Richter\* / Semiya Pape\* / Stephanie Braun\*\* / Sabrina Geiermann\*\* / Stefan Pircher\*\*, \*Institut für Informatik, Fakultät für Informatik und Ingenieurwissenschaften, TH Köln, \*\*Archäologie der Römische Provinzen, Archäologisches Institut der Universität zu Köln)
 .
 
-## CAA 2019
+## CAA 2019 Kraków, Poland
 
 -   Abstract: <https://doi.org/10.5281/zenodo.1420252>
 
@@ -45,7 +45,7 @@ conference canceled due COVID
 
 -   profileAAR release note (Moritz Mennenga, Lower Saxony Instiute for historical Coastal Research)
 
-## CAA 2018
+## CAA 2018 Tübingen, Germany
 
 Our first Minion Session! A few well prepared people hadn't handed in a paper and want to present their minions spontanious.. No problem! "Stand-up-Science" was born.
 
