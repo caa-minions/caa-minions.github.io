@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/CaaLittleMinion"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-fw fa-github"
       url: "https://github.com/caa-minions"
     - label: "caa[at]littleminions[dot]link"
       icon: "fab fa-fw fa-envelope"
