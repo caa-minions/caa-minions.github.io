@@ -17,6 +17,7 @@ You like to join organizing Minions? Contact us!
 -   Ronald Visser
     -   Saxion - University of Applied Sciences, The Netherlands.
     -   <https://orcid.org/0000-0001-6966-1729>
+    -   Chair of Local CAA Chapter for Netherlands-Flanders
 -   Moritz Mennenga
     -   Lower Saxony Institute for Historical Coastal Research, Germany.
     -   <https://orcid.org/0000-0003-1521-8929>
