@@ -17,7 +17,27 @@ For finding the Minions online check out our [list](https://caa-minions.github.i
 
 -   Abstract: <https://2021.caaconference.org/sessions/#13>
 
-upcoming...
+-   Democratization of knowledge from small museums online digital collections reusable human and machine-readable content models (Avgoustinos Avgousti / Georgios Papaioannou / Nikolas Bakirtzis / Sorin Hermon)
+
+-   ChronochRt –make chronological charts with R (Thomas Rose / Chiara G. M. Girotto)
+
+-   geoCore -A QGIS plugin to create graphical representations of drillings (Moritz Mennenga / Gerrit Bette)
+
+-   Near Presence Analysis: A New Technique for Analyzing the Spatial Distribution of Material in Irregularly Distributed Surface Survey Data (Eli Weaverdyck)
+
+-   re3dragon –REsearch REsource REgistry for DataDragons (Florian Thiery / Allard Mees)
+
+-   The use of sequential spectral filtering in digital multispectral imaging for identifying pigments on ancient sculpture (Orestis Kourakis)
+
+-   APE – ArboDat Pangaea Export (Moritz Mennenga)
+
+-   Grading minion to the rescue (Ronald Visser)
+
+-   My little Linked Open Data Ogham Minion: visualising graph data connections using SPARQL endpoints (Florian Thiery)
+
+-   Introducing a stature estimation tool for human skeletal material to the public (Mariana Koukli / Vasileios Sevetlidis / Frank Siegmund / Christina Papageorgopoulou / George P Pavlidis)
+
+
 
 ## CAA 2020 - Oxford, UK
 
