@@ -28,6 +28,9 @@ You like to join organizing Minions? Contact us!
     -   Member of the CAA Scientific Committee (since 2019)
     -   Speaker of the CAA SIG Data-Dragon (since 2020)
     -   Member of the Scientific Advisory Council at the CAA Section Germany (since 2016)
+-    Brigit Danthine
+    - University of Innsbruck, Austria.
+    - <https://orcid.org/0000-0002-4088-255X>
 
 ## Contact
 

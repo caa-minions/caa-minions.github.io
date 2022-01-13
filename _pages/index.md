@@ -16,7 +16,7 @@ One of the main parts of any Minion Session is our ad hoc “Stand-up-Science”
 
 On the following pages you will find our past and upcoming events, minion documents and a list, where we collect all our minions! You like to share yours, too? Contact us!
 
-Florian Thiery, Ronald Visser, and Moritz Mennenga
+Florian Thiery, Ronald Visser, Moritz Mennenga and Birgit Danthine
 
 <p>
   <center>
