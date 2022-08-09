@@ -13,6 +13,28 @@ sidebar:
 You will find a list of all our talks here!
 For finding the Minions online check out our [list](https://caa-minions.github.io/minions/).
 
+## CAA 2022 - Oxford, UK (hybrid)
+
+-   Abstract: <https://2022.caaconference.org/programme/
+
+-   CyprusArk: A multi-institutional content management system for small museums collections online (Avgoustinos Avgousti\* / Nikolas Bakirtzis\* / Feliz Ribeiro Gouveia\*\* / Georgios Papaioannou\*\*\*, \*The Cyprus Institute,\*\*Fernando Pessoa University, \*\*\*Ionian University)
+
+-   BERT's little minion: A tool to normalise time periods extracted from Dutch text (Alex Brandsen, Leiden University)
+
+-   From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App (Yiu-Kang Hsu, German Mining Museum Bochum)
+
+-   Your (gpkg) relations matters (Nyall Dawson / Jane Jansen\* / Daniel Lowenborg\*\* / Gísli Pálsson\*\*, \*Intrasis, \*\*Uppsala University)
+
+-   Linked Pipes: A little minion for reproducible research (Timo Homburg, University of Applied Sciences Mainz / Florian Thiery, Römisch-Germanisches Zentralmuseum Mainz)
+
+-   On the search for invariants in corpora of archaeological artifacts (Eythan Levy, University of Bern)
+
+-   Currycarbon: A Haskell library and command line tool for radiocarbon calibration (Clemens Schmid, Max Planck Institute for Geoanthropology & Max Planck Institute for Evolutionary Anthropology, Jena)
+
+
+-   QGIS-plugin "CRS-Guesser" (Brigit Danthine, University of Innsbruck & Austrian Archaeological Institute)
+
+
 ## CAA 2021 - Limassol, Cyprus (digital)
 
 -   Abstract: <https://2021.caaconference.org/sessions/#13>
