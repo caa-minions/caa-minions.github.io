@@ -19,20 +19,19 @@ For finding the Minions online check out our [list](https://caa-minions.github.i
 
 -   CyprusArk: A multi-institutional content management system for small museums collections online (Avgoustinos Avgousti\* / Nikolas Bakirtzis\* / Feliz Ribeiro Gouveia\*\* / Georgios Papaioannou\*\*\*, \*The Cyprus Institute,\*\*Fernando Pessoa University, \*\*\*Ionian University)
 
--   BERT's little minion: A tool to normalise time periods extracted from Dutch text (Alex Brandsen, Leiden University)
+-   [BERT's little minion](https://github.com/alexbrandsen/timeperiod2daterange): A tool to normalise time periods extracted from Dutch text (Alex Brandsen, Leiden University)
 
--   From OXALID to GlobaLID: A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App (Yiu-Kang Hsu, German Mining Museum Bochum)
+-   From OXALID to [GlobaLID](https://globalid.dmt-lb.de/): A substantial upgrade of a well-known data pool of lead isotopes for metal provenancing using R and Shiny App (Yiu-Kang Hsu, German Mining Museum Bochum)
 
 -   Your (gpkg) relations matters (Nyall Dawson / Jane Jansen\* / Daniel Lowenborg\*\* / Gísli Pálsson\*\*, \*Intrasis, \*\*Uppsala University)
 
--   Linked Pipes: A little minion for reproducible research (Timo Homburg, University of Applied Sciences Mainz / Florian Thiery, Römisch-Germanisches Zentralmuseum Mainz)
+-   [Linked Pipes](https://github.com/Research-Squirrel-Engineers/LinkedPipes): A little minion for reproducible research (Timo Homburg, University of Applied Sciences Mainz / Florian Thiery, Römisch-Germanisches Zentralmuseum Mainz)
 
 -   On the search for invariants in corpora of archaeological artifacts (Eythan Levy, University of Bern)
 
--   Currycarbon: A Haskell library and command line tool for radiocarbon calibration (Clemens Schmid, Max Planck Institute for Geoanthropology & Max Planck Institute for Evolutionary Anthropology, Jena)
+-   [Currycarbon](https://github.com/nevrome/currycarbon): A Haskell library and command line tool for radiocarbon calibration (Clemens Schmid, Max Planck Institute for Geoanthropology & Max Planck Institute for Evolutionary Anthropology, Jena)
 
-
--   QGIS-plugin "CRS-Guesser" (Brigit Danthine, University of Innsbruck & Austrian Archaeological Institute)
+-   QGIS-plugin ["CRS-Guesser"](https://github.com/brigitdanthine/crs-guesser) (Brigit Danthine, University of Innsbruck & Austrian Archaeological Institute)
 
 
 ## CAA 2021 - Limassol, Cyprus (digital)
@@ -41,9 +40,9 @@ For finding the Minions online check out our [list](https://caa-minions.github.i
 
 -   Democratization of knowledge from small museums online digital collections reusable human and machine-readable content models (Avgoustinos Avgousti / Georgios Papaioannou / Nikolas Bakirtzis / Sorin Hermon)
 
--   ChronochRt –make chronological charts with R (Thomas Rose / Chiara G. M. Girotto)
+-   [ChronochRt](https://github.com/Research-Squirrel-Engineers/LinkedPipes) –make chronological charts with R (Thomas Rose / Chiara G. M. Girotto)
 
--   geoCore -A QGIS plugin to create graphical representations of drillings (Moritz Mennenga / Gerrit Bette)
+-   [geoCore](https://github.com/t-systems-on-site-services-gmbh/geoCore) -A QGIS plugin to create graphical representations of drillings (Moritz Mennenga / Gerrit Bette)
 
 -   Near Presence Analysis: A New Technique for Analyzing the Spatial Distribution of Material in Irregularly Distributed Surface Survey Data (Eli Weaverdyck)
 
