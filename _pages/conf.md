@@ -13,9 +13,30 @@ sidebar:
 You will find a list of all our talks here!
 For finding the Minions online check out our [list](https://caa-minions.github.io/minions/).
 
+## CAA 2023 - Amsterdam, Netherlands
+
+-	Abstract: <https://2023.caaconference.org/wp-content/uploads/sites/29/2023/04/abstract_book_v13.pdf>
+
+-	MiGIS – Document, analyse and share your micromorphological observations of archaeological sediment thin sections (Mirijam Zickel\* / Astrid Röpke\* / Martin Kehl\*, \*University of Cologne)
+
+-	[Tachy2GIS](https://github.com/chris-jan-trapp/Tachy2GIS) and [Tachy2GIS_arch](https://github.com/Landesamt-fuer-Archaeologie-Sachsen/Tachy2GIS_arch) – two plugins for direct total station measuring in QGIS (Christof Schubert\*, Jörg Räther\*\*, \*Landesamt für Archäologie Sachsen, \*\*(Archäologisches Museum Hamburg)
+
+-	[CORPUS NUMMORUM](https://www.corpus-nummorum.eu/) – A Digital Research Infrastructure for Ancient Coins (Ulrike Peter\*, Karsten Tolle\*\*, Jan Köster\*, Claus Franke\*, Sebastian Gampe\*\*, Bernhard Weisser\*\*\*, \*Berlin-Brandenburg Academy of Sciences and Humanities, \*\*Goethe-Universität Frankfurt am Main, \*\*\* Münzkabinett. Staatliche Museen zu Berlin)
+
+-	The [bonestatr](https://codeberg.org/rmahler/bonestatr): An R package to facilitate choosing the best human stature reconstruction method based on bones (Robert Mahler, Polish Centre of Mediterranean Archaeology  University of Warsaw)
+
+### Spontanious Minions
+
+-	Excavation database (Kristina Martinelle, University of Lund)
+
+-	News from [Heurist](http://heuristnetwork.org/) (Ian Johnson, University of Sydney)
+
+-	[Arbodat+](https://nihk.de/en/research/current-projects/arbodat-ape) (Moritz Mennenga, Lower Saxony Institute for Historical Coastal Research)
+
+
 ## CAA 2022 - Oxford, UK (hybrid)
 
--   Abstract: <https://2022.caaconference.org/programme/
+-   Abstract: <https://2022.caaconference.org/programme/>
 
 -   CyprusArk: A multi-institutional content management system for small museums collections online (Avgoustinos Avgousti\* / Nikolas Bakirtzis\* / Feliz Ribeiro Gouveia\*\* / Georgios Papaioannou\*\*\*, \*The Cyprus Institute,\*\*Fernando Pessoa University, \*\*\*Ionian University)
 
@@ -75,6 +96,7 @@ Session: Tools, statistics and little Minions
 ## CAA Germany 2019 - Wilhelmshaven, Germany
 
 -   Digitale Archivierung ohne eigenes Archiv? (Martina Trognitz, ÖAW – Austrian Centre for Digital Humanties)
+
 -   Ein digitales Feldbuch – Die 3D-Dokumentation einer archäologischen Grabung (Lukas Büsche\* / Max Simon\* / Jörn Richter\* / Semiya Pape\* / Stephanie Braun\*\* / Sabrina Geiermann\*\* / Stefan Pircher\*\*, \*Institut für Informatik, Fakultät für Informatik und Ingenieurwissenschaften, TH Köln, \*\*Archäologie der Römische Provinzen, Archäologisches Institut der Universität zu Köln)
 
 ## CAA 2019 - Kraków, Poland
